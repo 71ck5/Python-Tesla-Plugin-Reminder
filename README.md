@@ -17,3 +17,5 @@ If you have at&t you can have it text you at {phone number}@txt.att.net
 - [X] Add email and pass question in line
 - [X] If certain adress then know the smtp and port
 - [ ] Larger smtp Autoresolve database
+
+This has been discontinued - there is now a new project using node.js that has more functionality at : or get the code at :
